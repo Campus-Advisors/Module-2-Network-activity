@@ -22,7 +22,7 @@ So in this section we’re going to learn how to use Git (and start to use GitHu
 1. With [Visualizing Git](git-school.github.io/visualizing-git/), you’ll see the ability to make commits and branches.
 2. Choose an individual assignment from your course. 
 3. Re-create the workflow you expect from your students to complete their assignment.
-4. Take a screenshot of your result from the visualization tool and post it to the [Education Community](education.github.community).
+4. Take a screenshot of your result from the visualization tool and post it to the [Education Community](https://education.github.community/c/teachers/advisors).
 
 ## 2.4
 
@@ -35,7 +35,7 @@ So in this section we’re going to learn how to use Git (and start to use GitHu
 5. In atom, add Wikipedia entry about another planet into that branch’s readme. 
 6. Save, then commit, then close out of atom.
 7. Does the file show your first planet? Or the second?
-8. Take a screenshot of your output and post it to the [Education Community](education.github.community).
+8. Take a screenshot of your output and post it to the [Education Community](https://education.github.community/c/teachers/advisors).
 
 ## 2.5 
 
@@ -50,4 +50,4 @@ So in this section we’re going to learn how to use Git (and start to use GitHu
 1. Create an organization with your course materials for one assignment in a repository.
 2. Create a Classroom, and an individual assignment.
 3. Send it to a colleague to accept. 
-4. Take a snapshot of your teacher dashboard and post it to the [Education Community](education.github.community).
+4. Take a snapshot of your teacher dashboard and post it to the [Education Community](https://education.github.community/c/teachers/advisors).
