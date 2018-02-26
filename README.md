@@ -19,8 +19,8 @@ So in this section we’re going to learn how to use Git (and start to use GitHu
 
 * [Watch: 2.3 Branches](https://youtu.be/kQMhvjLFS28)
 
-Exercise: [Re-create your assignment workflow](git-school.github.io/visualizing-git/)
-1. With [Visualizing Git](git-school.github.io/visualizing-git/), you’ll see the ability to make commits and branches.
+Exercise: [Re-create your assignment workflow](https://git-school.github.io/visualizing-git/)
+1. With [Visualizing Git](https://git-school.github.io/visualizing-git/), you’ll see the ability to make commits and branches.
 2. Choose an individual assignment from your course. 
 3. Re-create the workflow you expect from your students to complete their assignment.
 4. Take a screenshot of your result from the visualization tool and post it to the [Education Community](https://education.github.community/c/teachers/advisors).
