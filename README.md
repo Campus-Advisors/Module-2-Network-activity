@@ -5,15 +5,16 @@ So in this section we’re going to learn how to use Git (and start to use GitHu
 ## 2.1 
 
 * [Watch: 2.1: Network activity](https://youtu.be/G7lrRGRS5o8)
-* Exercise: Work with remotes
+Proceed to 2.2 for the video and exercise :)
+
+## 2.2 
+* [Watch: 2.2 Fetch](https://youtu.be/jCxKg2J4pnM)
+
+### Exercise: Work with remotes
 1. On the command line: create a repository from the command line called “individual-work.”
 2. On GitHub.com, create a repository.
 3. On GitHub.com, upload your first week’s assignments to the “Individual” repository.
 4. Use the command line to bring the commits back down to your local repository.
-
-## 2.2 
-
-* [Watch: 2.2 Fetch](https://youtu.be/jCxKg2J4pnM)
 
 ## 2.3
 
